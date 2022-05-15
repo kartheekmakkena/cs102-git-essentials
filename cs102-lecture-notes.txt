@@ -3,3 +3,5 @@ git status     - usefull to see current status of repository
 git clone git@github.com:<your GitHub username>/cs102-git-essentials.git     - to clone git repository
 git add .      - it add all files in current directory 
 git commit -m ""  - to cummit changes 
+
+in today's lecture i learn about github. i learn how to create repository and how to clone it using wsl commands.i learned how to cleate a file add it and commit it using wsl commands.after cummiting that file using wsl commands i learned to push it using wsl commands
